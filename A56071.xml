@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends</title>
+            <author>Parker, Alexander, 1628-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56071</idno>
+            <idno type="STC">Wing P381</idno>
+            <idno type="STC">ESTC R2937</idno>
+            <idno type="EEBO-CITATION">12017423</idno>
+            <idno type="OCLC">ocm 12017423</idno>
+            <idno type="VID">52567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 573:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends</title>
+                  <author>Parker, Alexander, 1628-1689.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from NUC pre-1956.</note>
+                  <note>Signed: Alexander Parker.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:52567:1" rendition="simple:additions"/>
+            <head>AN EPISTLE TO FRIENDS.</head>
+            <p>DEar Friends, Brethren and Siſters in the holy Union of Divine Love, who are called by Grace in Chriſt Jeſus, the Light and Love of God, I your dear Brother in the ſame pure Love and Union, being called and choſen of God, to la<g ref="char:EOLhyphen"/>bour in his Vineyard, do ſend Greetings of Love unto you, and write theſe things unto you by Way of Remembrance, to ſtir up your pure Minds, that you may be encouraged to go on, and preſs towards the Mark for the Price of the high and precious Calling, whereunto you are called, that none of you may faint in your Minds, nor ſit down by the Way, neither ſet up a falſe Reſt, but with Courage and Boldneſs go on, following the Lamb in the Light which Way ſoever he goes, through Sufferings and tryals and all Hardſhips, like good Souldiers of Je<g ref="char:EOLhyphen"/>ſus Chriſt, be valiant in the ſpiritual Combat, until all your Enemies be made your Footſtool, that ſo you may quietly ſit down in Peace and Safety under the Shadow of Chriſt Jeſus, the Light, Life and Power of God, where none can harm you, nor make
+<pb n="2" facs="tcp:52567:2"/>you afraid. And dear Hearts, <hi>pure</hi> and
+<hi>holy</hi> is the Lord, who hath called you, and dreadful is his Name, he is Juſt in all his Wayes, and loves <hi>Truth</hi> and <hi>Righteouſneſs,</hi> and nothing can ſtand before him, but Purity: no Hypocriſie, nor Deceit, nor any feigned or falſe thing can ſtand in his Preſence, nor enter into his Righteous Kingdom, but by the Fire of his fierce Wrath is to be burnt up and conſumed; <hi>Truth is his Delight, and Holineſs his dwelling-place, without which none can ſee him, nor approach unto him; all his Wayes are pure and perfect,</hi> and nothing can guide in his Way (which is perfect) but that which is perfect; the <hi>Worldly Eye cannot behold, nor Worldly Wiſdom comprehend nor find out the Depths of his divine Myſtery; it is ſeal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and hid from all the Sons and Daugh<g ref="char:EOLhyphen"/>ters of</hi> Adam, <hi>who be in the Tranſgreſſion, Sin and Diſobedience, ſeparated from the pure Love, Life and Preſence of the living God:</hi> But Glory and everla<g ref="char:EOLhyphen"/>ſting Praiſes be given to the moſt high, he hath diſ<g ref="char:EOLhyphen"/>covered and revealed that Light, and Life, and pure Truth, which hath been hid and vailed under the thick Miſts and Clouds of Darkneſs for many A<g ref="char:EOLhyphen"/>ges, but now is manifeſt unto the Children and Ser<g ref="char:EOLhyphen"/>vants of God, who fear his Name, and tremble at his Word, even the ſame Truth as ever was, which abides and continues forever, which makes free from Sin, and unites and Joyns the Hearts of all thoſe who faithful in it abide, together in one pure Love and holy Life. O my dear Friends, prize the Love and Mercies of God, which have been tendered unto you in the Light, and continue in his Love, and walk worthy of his Mercies, as lively Patterns and
+<pb n="3" facs="tcp:52567:2"/>Examples of a Righteous Life, anſwerable to your Profeſſion, that you may be a ſweet and good Savour to the Lord, both in them that believe, and in them alſo that periſh, reſembling and repreſenting him who hath called and loved you, holding forth unto all the ſame Patience and Long Suffering of God, even as the Lord loved you, when you were his E<g ref="char:EOLhyphen"/>nemies, and waited in Patience and Long-ſuffering, to be gracious unto you, and to do you Good; ſo do you ſhew Love and Kindneſs to them that are without, though they be Enemies to you, and ſpeak Evil of you, and labour to overcome you, and to draw you back again into the Mire and Pollution of the World; I ſay unto you, in Patience wait, and partake not with them in any Evil, but ſtand Wit<g ref="char:EOLhyphen"/>neſſes for God againſt the Evil, &amp; be not overcome therewith, but overcome Evil with Good; and turn not ye to them, but ſtand ſtedfaſt and unmo<g ref="char:EOLhyphen"/>veable in the Light, and let them return to you: I know, dearly beloved, the Enemy of your Souls lies in wait to deceive you and enſnare you, and will not ceaſe to tempt and aſſault you as long as he hath any Intereſt in you, to draw you back again into Sin and Evil; for it is his Work to oppoſe the Work of God, and to make War with the Lamb and the Saints; he need not make War with the Worldly Ones who live in Sin, for they are ſub<g ref="char:EOLhyphen"/>ject to him already, and led Captive by him at his Will; but his Enmity is againſt the Lamb and his Followers, who come to ſpoil him, and diſpoſſeſs him, and take the Kingdom from him, and there<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:52567:3"/>doth he rage, and go about like a roaring Lyon, ſeeking whom he may devour; therefore let none think ſtrange concerning the fiery
+<hi>Tryals</hi> and many <hi>Tribulations</hi> the Followers of the Lamb do paſs through; but every one in particular wait upon God in the Light, which makes manifeſt the De<g ref="char:EOLhyphen"/>ceits and ſubtil Workings of the Serpent, that in the Light you may behold the ſubtil Enemy in his approaching, and in the Power of God reſiſt him, that ſo a Separation you may all know in the Root and Ground between the precious and the vile, wrought in you by the pure Power of the moſt high God, that you may know each Workman in their ſeveral Workings in the <hi>Myſtery;</hi> for as Godlineſs is a <hi>Myſtery,</hi> ſo likewiſe Iniquity is a <hi>Myſtery;</hi> and as God is a pure Spirit, and works in a <hi>Myſtery</hi> in the Light, ſo the Devil is a dark Spirit, and works in a <hi>Myſtery</hi> in the Dark; and as God doth work Mankind into his Image of Righteouſneſs, ſo the Devil he works Mankind who obey him, into his Image of Unrighteouſneſs; and as theſe two Workmen, to wit, the Prince of Light and the Prince of Darkneſs have no Fellowſhip nor Agree<g ref="char:EOLhyphen"/>ment, but are contrary one to the other, even ſo the Followers and Servants of each of theſe have no Agreement, but are oppoſite and contrary each to other, and hence ariſeth the War and the Strife between the two Seeds, the Seed of the Woman, and the Seed of the Serpent, and no Man or Wo<g ref="char:EOLhyphen"/>man can ſerve theſe two Maſters, or be Heirs of theſe two Kingdoms, but every one becomes a Ser<g ref="char:EOLhyphen"/>vant
+<pb n="5" facs="tcp:52567:3"/>to him to whom he yields his Members. Ser<g ref="char:EOLhyphen"/>vants to obey, whether of Sin unto Death, or of Obedience unto Life; and ſo every man and wo<g ref="char:EOLhyphen"/>man is known whoſe Workmanſhip they are, by that Image which appears in them, and ſo are known by their Works and Fruits; the Children of God, who are born of the pure Spirit from a<g ref="char:EOLhyphen"/>bove, are marked out, and have their Father's Name written upon them, which is <hi>Meekneſs</hi> and <hi>Humility, Patience</hi> and <hi>Long-Suffering, Gentleneſs</hi> and <hi>Peace, Righteouſneſs</hi> and
+<hi>true Holineſs, Truth</hi> and <hi>Love,</hi> hereby they are known, even by their Fruits of Righteouſneſs; ſo alſo the Children of the Devil, who are born of the dark Spirit from below, are marked out, and have their Father's Name written upon them, which is Envy and Wrath, Coveteouſneſs and Pride, Arrogancy, High-mindedneſs, Stubbornneſs and Wilfulneſs, Lying and Swearing, Scoffing and Scorning, Jear<g ref="char:EOLhyphen"/>ing, Drunkenneſs, and ſuch like, and hereby they are known, even by their Fruits of Wickedneſs: Therefore my beloved Friends, wait in the Light of Chriſt Jeſus, and try the inward Motions, what Spirit it is that moves, whether the pure Spirit that moves in the Light, or the unclean Spirit that moves in the dark, that ſo you may know a Separation in the inward Ground, between the Good and the Evil, that in the Pow<g ref="char:EOLhyphen"/>er of the Lord ye may Joyn to and obey the Good, and ſeparate from and reſiſt the Evil in the firſt Riſe and Motion, before it break forth
+<pb n="6" facs="tcp:52567:4"/>into Action; for before every Action that is done amongſt men, there is firſt an Inward Motion: So in the Light of Chriſt try every Motion, from what Ground it doth ariſe, and dwell in Righteouſneſs and true Judgment, that Sin may be condemned in the Fleſh, and the Enemy re<g ref="char:EOLhyphen"/>ſiſted in all his Appearances, both within and without; for this you ſhall find by Experience, that when the Enemy cannot overcome you by that Power which he hath within you, but by the Power of God is reſiſted and overcome, then he will ſtir up ſome of his Inſtruments without you, in whom he bears Rule, and make them Inſtruments to tempt and enſnare you, and to draw you back again into the Sin and World of Darkneſs: But all Friends, ſtand ſtedfaſt and unmoveable in that meaſure of Light and Truth which from God is manifeſted in you, and that ſame Power which gives you Victory over the Evil within, waiting in Patience in it, will alſo give you Victory and Dominion over the Evil-doers and Sinners without you, where<g ref="char:EOLhyphen"/>by you may be able to ſay in the <hi>Truth, GREATER IS HE THAT IS IN US, THEN HE THAT IS IN THE WORLD:</hi> So the Lord give you Wiſdom and true Diſcer<g ref="char:EOLhyphen"/>ning, to put a Difference between the Holy and Unholy, and the Almighty Preſence and Pow<g ref="char:EOLhyphen"/>er of the higheſt accompany you and aſſiſt you, that you may therein reſiſt the Evil, and obey the Good; ſo ſhall you have Peace in acting and do<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:52567:4"/>the things that are Righteous and well-pleaſing unto God.</p>
+            <closer>Live in LOVE.
+<signed>
+                  <hi>So with my dear Love unto all the Upright in Heart, I reſt your dear Brother in the Truth,</hi> Alexander Parker.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This to be read among Friends in the Truth, as in the Wiſ<g ref="char:EOLhyphen"/>dom of God they ſhall ſee it ſerviceable.</hi>
+               </p>
+            </postscript>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
